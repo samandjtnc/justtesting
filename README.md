@@ -1,29 +1,53 @@
-Absolutely! Here’s a refined description of the updated "Scholarship Model" for Regional Partners (RPs), reflecting the changes and integrations as outlined:
+Certainly! Below is a draft for an initial email that you can use to announce the changes in the funding model to your Regional Partners (RPs). This email includes a brief introduction to the policy changes and invites RPs to a detailed webinar where they can learn more and ask questions.
 
-### Updated Scholarship Model for Regional Partners
+---
 
-**Overview:**
-The Scholarship Model provides funding support directly linked to professional learning activities, with specific conditions tailored to different computer science courses. This model aims to support the delivery of professional learning by RPs while encouraging adaptation and innovation in program delivery.
+Subject: Important Updates to Our Funding Models – Join Our Upcoming Webinar
 
-**CS Principles (CSP) and Computer Science A (CSA):**
-- **Standard Allocation**: The scholarship model for CSP and CSA remains largely unchanged, operating under the existing allocation model. RPs will receive a predetermined number of scholarships based on historical data and projected needs.
-- **Unlock Additional Scholarships**: RPs have the ability to request additional scholarships beyond their standard allocation based on demonstrated demand or unique opportunities that could increase the impact of CSP and CSA training.
+Dear Regional Partners,
 
-**CS Discoveries (CSD):**
-- **Standard CSD Model**: For RPs planning to implement the mostly unmodified CSD professional learning model, which includes a summer workshop and significant academic year workshop components, scholarships need to be specifically requested. This ensures that funding aligns with deliberate planning and expected outcomes.
-- **Modified CSD Programs**: If RPs significantly alter the standard CSD professional learning model—whether through format, duration, or content—they are encouraged to seek funding under one of the new funding models designed to support innovation and tailored approaches. This shift is aimed at promoting customized solutions that meet specific district or regional needs.
+I hope this message finds you well. As we continue to evolve and enhance our efforts to expand access to computer science education, we are excited to announce significant updates to our funding models, designed to better support our shift from teacher-centric to district-centric engagements.
 
-**National or Multi-region Virtual Workshops:**
-- **Split Scholarship Model**: For workshops that are national or cover multiple regions and are hosted virtually, a split scholarship model will be implemented. This model is designed to financially support both the hosting RP responsible for delivering the workshop and the local RPs involved in recruiting and supporting participants from their regions. This ensures that both the organizing and local RPs are compensated for their roles in facilitating broad-reaching professional learning experiences.
+**What's Changing?**
+This year, we are making strategic adjustments to how we allocate and manage funds within our RP network. Our goal is to foster broader and more sustainable impacts through:
+- A diversified funding approach including grants, matching funds, cost recovery, and a sliding scale for workshops.
+- A decreased emphasis on direct scholarships for non-district focused activities, redirecting these funds to support scalable district engagements.
+- New opportunities through a grant model that rewards effective district-level program implementations.
 
-**Benefits and Goals:**
-- Encourages RPs to maintain high-quality delivery of established programs while also fostering innovation in adapting professional learning to meet local needs.
-- Ensures equitable distribution of resources, allowing RPs to expand their reach and impact without the financial burden falling disproportionately on any single entity.
-- Supports the strategic vision of broadening access to computer science education through tailored and innovative professional learning strategies.
+**Why These Changes?**
+Our experience and data from previous years show that a district-centric approach is more effective at creating lasting impacts in computer science education. By adjusting our funding models, we aim to support you, our partners, in implementing more sustainable and impactful initiatives at the district level.
 
-**Implementation and Oversight:**
-- RPs will submit detailed plans and requests for scholarships as part of their annual operational planning. These plans must outline anticipated program delivery formats and expected outcomes.
-- Code.org will review scholarship requests to ensure they align with strategic goals and available funding, providing approvals based on a combination of historical performance, potential impact, and alignment with overall program objectives.
-- Ongoing evaluation will assess the effectiveness of the scholarship allocations and make adjustments as necessary to optimize the distribution of funds and ensure the success of professional learning initiatives.
+**Learn More at Our Webinar**
+We invite you to join us for an informative webinar where we will delve deeper into these changes, discuss what they mean for you, and explain how you can engage with the new models.
 
-This updated Scholarship Model is designed to provide flexibility, encourage innovation, and ensure that funding supports effective and impactful professional learning across various computer science disciplines.
+**Webinar Details:**
+- **Date:** [Insert Date]
+- **Time:** [Insert Time]
+- **Registration Link:** [Insert Link]
+
+**What to Expect:**
+- Detailed overview of each new funding model
+- Guidance on transitioning to the new system
+- Q&A session to address your specific questions
+
+We encourage all RPs to attend this webinar to better understand the new frameworks and to discuss how these changes can benefit your initiatives.
+
+**Attached Documents:**
+Please find attached a detailed policy document that outlines the new funding models and what they entail for your operations and planning. We recommend reviewing this document before the webinar to formulate any questions you may have.
+
+We understand that changes can be challenging, but we are confident that these new funding models will enable us to achieve our shared goals more effectively. Your continued partnership and collaboration are invaluable to us, and we are here to support you through this transition.
+
+Thank you for your dedication and hard work. We look forward to discussing these exciting developments with you during the webinar.
+
+Warm regards,
+
+[Your Name]  
+[Your Position]  
+Code.org  
+[Contact Information]
+
+---
+
+**Attachment:** Detailed Policy Document on New Funding Models.pdf
+
+This email aims to clearly communicate the need for changes, outline the benefits, and actively engage your RPs in the transition process through an informative webinar and detailed documentation.
