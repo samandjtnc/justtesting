@@ -41,7 +41,7 @@ Creating practice test questions for an introduction to Python class that covers
 5. **Complexity Analysis in Nested Loops:**
    - **Question:** What is the time complexity of the following Python function?
      ```python
-     def print_pairs(year1,year2_lists):
+     def print_pairs(year1_lists,year2_lists):
          for list1 in year1_lists:
              for list2 in year2_lists:
                  find("apple",list1 + list2)
